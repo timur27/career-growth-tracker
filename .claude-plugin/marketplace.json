@@ -1,0 +1,19 @@
+{
+  "name": "career-growth-tracker",
+  "owner": {
+    "name": "Timur Karimov",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Extract and track what you actually learn from AI coding sessions",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "career-growth-tracker",
+      "description": "Track learning from AI coding sessions",
+      "source": "./",
+      "skills": ["./"]
+    }
+  ]
+}

@@ -11,7 +11,7 @@ Extract what you **actually learned** from AI coding sessions — not what the A
 setup → capture → summary
 ```
 
-Three commands. Local JSONL storage at `~/.career-tracker/`. No accounts, no cloud.
+Three commands. Local JSONL storage at `~/.career-tracker/`.
 
 ---
 
